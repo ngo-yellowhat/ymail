@@ -1,1 +1,1 @@
-this is a mail client.
+this is a android ymail client.

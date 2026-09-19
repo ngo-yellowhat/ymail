@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ymail</string>
+    <string name="enter">Войти</string>
+    <string name="regacc">Создайте аккаунт</string>
+    <string name="namereg">Введите ваше имя</string>
+    <string name="welcome">Добро пожаловать в ymail</string>
+    <string name="continuee">Продолжить</string>
+    <string name="infoym">Свобода слова и приватность невозможны без кода, который нельзя тихо изменить или отобрать.</string>
+    <string name="back">Вернуться</string>
+</resources>
